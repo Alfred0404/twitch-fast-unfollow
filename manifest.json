@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Twitch unfollow",
+    "version": "1.0",
+    "backgrounds": {
+        "service_worker": "service-worker.js",
+        "type": "module"
+    }
+}
